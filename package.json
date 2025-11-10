@@ -1,0 +1,16 @@
+{
+  "name": "minecraft-metas-manager",
+  "version": "1.0.0",
+  "description": "Sistema de Gerenciamento de Metas Diárias - Minecraft",
+  "main": "index.html",
+  "homepage": "https://1579483Ls.github.io/vgd-metas",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "author": "",
+  "license": "MIT"
+}
